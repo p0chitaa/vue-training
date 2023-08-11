@@ -1,14 +1,14 @@
 # Slots
 
 Additionally, the parent component can also pass down template fragments to the child via **slots**:
-```jsx
+```html
 <ChildComp>
     This is some slot content!
 </ChildComp>
 ```
 
 In the child component, it can render the slot content from the parent using the `<slot>` element as outlet:
-```vue
+```html
 <!-- in child template -->
 <slot/>
 ```
