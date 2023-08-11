@@ -1,3 +1,5 @@
+# Attribute Bindings
+
 In vue, mustaches are only used for text interpolation. To bind an attribute to
 a dynamic value, we use the `v-bind` directive:
 

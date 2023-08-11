@@ -2,5 +2,7 @@
 
 import { createApp } from 'vue'
 import DeclarativeRendering from './DeclarativeRendering.vue'
+import AttributeBindings from './AttributeBindings.vue'
+import EventListeners from './EventListeners.vue'
 
-createApp(DeclarativeRendering).mount('#app')
+createApp(EventListeners).mount('#app')
