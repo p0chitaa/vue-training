@@ -24,3 +24,5 @@ function increment() {
 Inside the function, we can update the component state by mutating refs.
 
 Event handlers can also use inline expressions, and can simplify common tasks with modifiers.
+
+<a href="https://github.com/p0chitaa/vue-training/blob/main/vue-tutorial/src/EventListeners.vue">Event Listeners</a>
