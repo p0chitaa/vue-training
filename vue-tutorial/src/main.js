@@ -11,5 +11,6 @@ import ComputedProperty from './ComputedProperty.vue'
 import LifecycleAndTemplateRefs from './LifecycleAndTemplateRefs.vue'
 import Watchers from './Watchers.vue'
 import Components from './Components.vue'
+import Props from './Props.vue'
 
-createApp(Components).mount('#app')
+createApp(Props).mount('#app')
