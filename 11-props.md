@@ -19,3 +19,5 @@ The parent can pass the prop to the child just like attributes. To pass a dynami
 ```jsx
 <ChildComp :msg="greeting" />
 ```
+
+<a href="https://github.com/p0chitaa/vue-training/blob/main/vue-tutorial/src/Props.vue">Props</a>

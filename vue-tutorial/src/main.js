@@ -12,5 +12,7 @@ import LifecycleAndTemplateRefs from './LifecycleAndTemplateRefs.vue'
 import Watchers from './Watchers.vue'
 import Components from './Components.vue'
 import Props from './Props.vue'
+import Emits from './Emits.vue'
+import Slots from './Slots.vue'
 
-createApp(Props).mount('#app')
+createApp(Slots).mount('#app')
